@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#hybrys_simple
+#hybris_simple
 =======
 # hybris_simple
 Ubuntu Hybris
